@@ -33,7 +33,7 @@ int main()
     vector<int> HouseNumbers = { 22, 34, 20, 1, 54, 3, 9, 15, 10, 11};
     int N = HouseNumbers.size();
 
-    int X = 12;     // Karls Hausnummer
+    int X = 10;     // Karls Hausnummer
     int K = 3;      // Nächste Häuser
 
     // Funktionsaufruf und Rückgabe der Werte
